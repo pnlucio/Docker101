@@ -1,0 +1,8 @@
+#Ignoring Dcokerfile
+Dockerfile
+
+#Ignoring dockerignore
+.dockerignore
+
+#Ignoring git folders
+.git
