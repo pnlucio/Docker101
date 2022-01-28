@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:alpine3.15
 
 WORKDIR /hello
 
